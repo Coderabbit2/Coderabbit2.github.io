@@ -78994,7 +78994,7 @@ A.aaN.prototype={
 $0(){A.cS(this.a,!1).dt()},
 $S:0}
 A.abh.prototype={
-$2(a,b){var s=null,r="assets/img/dummy.jpg",q=4281545523,p=t.p
+$2(a,b){var s=null,r="assets/img/angebote.png",q=4281545523,p=t.p
 if(b.b>=600)return A.dR(A.a([new A.dX(1,B.aO,new A.aV(new A.Y(10,10,10,10),A.nH(r,300,500),s),s),new A.dX(1,B.aO,new A.aV(new A.Y(10,10,10,10),A.a0(u.G,s,s,s,A.ar(s,s,new A.o(q),s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s)],p),B.y,B.cg,B.x)
 else return A.cm(A.a([new A.aV(new A.Y(10,10,10,10),A.a0("Sie f\xfchren ein Unternehmen oder sind Einzelunternehmer?\n\nDann sind Sie hier genau richtig. Wir bieten Unterst\xfctzung bei der Verwendung und Einrichtung Ihrer Computer Systemen. Wir helfen Ihnen bei der Auswahl der richtigen Software f\xfcr Ihre Bed\xfcrfnisse. Sollte es Probleme mit bestehenden Systemen gibt, stehen wir f\xfcr Fehlerbehebungen und Wartungsarbeiten zur Verf\xfcgung.\n\n\nSind Ihre Software-Probleme zu speziell?\n\nKein Problem: Wir arbeiten uns f\xfcr Sie ein und versuchen eine L\xf6sung zu finden. Unser Ziel ist es, Ihnen die bestm\xf6gliche Unterst\xfctzung bei der Verwendung von Software zu bieten.\n",s,s,s,A.ar(s,s,new A.o(q),s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.aV(new A.Y(10,10,10,10),A.nH(r,300,500),s)],p),B.y,B.B,B.x)},
 $S:36}
@@ -79157,7 +79157,7 @@ A.ab6.prototype={
 $0(){},
 $S:0}
 A.abj.prototype={
-$2(a,b){var s,r,q,p=null,o="assets/img/dummy.jpg",n=u.L,m=u.m,l=t.VO,k=t.p
+$2(a,b){var s,r,q,p=null,o="assets/img/kontakt.png",n=u.L,m=u.m,l=t.VO,k=t.p
 if(b.b>=600){s=A.nH(o,300,500)
 r=A.ar(p,p,B.ch,p,B.cq,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)
 q=A.oF(p,p)
@@ -79304,7 +79304,7 @@ A.a0U.prototype={
 $0(){A.cS(this.a,!1).dt()},
 $S:0}
 A.a17.prototype={
-$2(a,b){var s=null,r="assets/img/dummy.jpg",q=u.G,p=4281545523,o=t.p
+$2(a,b){var s=null,r="assets/img/startseite.png",q=u.G,p=4281545523,o=t.p
 if(b.b>=600)return A.dR(A.a([new A.dX(1,B.aO,new A.aV(new A.Y(10,10,10,10),A.nH(r,300,500),s),s),new A.dX(1,B.aO,new A.aV(new A.Y(10,10,10,10),A.a0(q,s,s,s,A.ar(s,s,new A.o(p),s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s)],o),B.y,B.cg,B.x)
 else return A.cm(A.a([new A.aV(new A.Y(10,10,10,10),A.a0(q,s,s,s,A.ar(s,s,new A.o(p),s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.aV(new A.Y(10,10,10,10),A.nH(r,300,500),s)],o),B.y,B.B,B.x)},
 $S:36}
@@ -79360,7 +79360,7 @@ A.a13.prototype={
 $0(){},
 $S:0}
 A.a19.prototype={
-$2(a,b){var s,r,q,p=null,o="assets/img/dummy.jpg",n=u.L,m=u.m,l=t.VO,k=t.p
+$2(a,b){var s,r,q,p=null,o="assets/img/kontakt.png",n=u.L,m=u.m,l=t.VO,k=t.p
 if(b.b>=600){s=A.nH(o,300,500)
 r=A.ar(p,p,B.ch,p,B.cq,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)
 q=A.oF(p,p)
