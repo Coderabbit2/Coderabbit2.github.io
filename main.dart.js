@@ -78676,7 +78676,7 @@ gq(a){var s=this.a,r=s[0],q=s[1],p=s[2]
 s=s[3]
 return Math.sqrt(r*r+q*q+p*p+s*s)}}
 A.mV.prototype={
-M(a){var s,r,q,p=null,o=4293981695,n=A.bo(a,p,t.w).w.a.a,m=n<1100
+M(a){var s,r,q,p=null,o=4293981695,n=A.bo(a,p,t.w).w.a.a,m=n<1500
 A.fi("Der Bildschirm hat folgende Breite: "+A.h(n)+" "+m)
 s=this.c
 r=A.a7("Angebote",p,p,p,p,p,p)
@@ -78722,12 +78722,12 @@ $0(){A.cS(this.a,!1).dt()},
 $S:0}
 A.Vs.prototype={
 $2(a,b){var s=null,r="assets/img/angebote.png",q="Wir als SoftRegio sind spezialisiert auf die Installation und Einrichtung von Softwareanwendungen sowie der Anpassung von Software an Ihre individuellen Gesch\xe4ftsprozesse. Mit unserer Expertise in Windows, Microsoft-Produkten und Datenbanken bieten wir Ihnen eine zuverl\xe4ssige IT-Unterst\xfctzung. Unser Fokus liegt auf der digitalen Transformation und der Optimierung Ihrer bestehenden Prozesse, um Ihr Unternehmen effizienter und wettbewerbsf\xe4higer zu gestalten.\n\nWir arbeiten uns gerne in Ihre speziellen Software-Probleme ein und versuchen eine L\xf6sung zu finden. Unser Ziel ist es, Ihnen die bestm\xf6gliche Unterst\xfctzung bei der Verwendung Ihrer digitalen Prozesse zu bieten.",p=4281545523,o=t.p
-if(b.b>=1100)return A.dR(A.a([new A.dX(1,B.aO,new A.aV(new A.Y(10,10,10,10),A.nI(r,300,500),s),s),new A.dX(1,B.aO,new A.aV(new A.Y(10,10,10,10),A.a7(q,s,s,s,A.aF(s,s,new A.o(p),s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s)],o),B.x,B.cg,B.w)
+if(b.b>=1500)return A.dR(A.a([new A.dX(1,B.aO,new A.aV(new A.Y(10,10,10,10),A.nI(r,300,500),s),s),new A.dX(1,B.aO,new A.aV(new A.Y(10,10,10,10),A.a7(q,s,s,s,A.aF(s,s,new A.o(p),s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s)],o),B.x,B.cg,B.w)
 else return A.cl(A.a([new A.aV(new A.Y(10,10,10,10),A.nI(r,300,500),s),new A.aV(new A.Y(10,10,10,10),A.a7(q,s,s,s,A.aF(s,s,new A.o(p),s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s)],o),B.x,B.B,B.w)},
 $S:35}
 A.Vt.prototype={
 $2(a0,a1){var s,r,q,p,o,n,m,l,k,j=null,i="Software",h="Installation und Einrichtung von Softwareanwendungen",g="Anpassung von Software an spezifische Gesch\xe4ftsprozesse",f="Spezialisiert auf Windows, Microsoft Produkte und Datenbanken",e="Digitale Transformation und Optimierung bestehender Prozesse",d="Hardware",c="Einrichten Ihres IT-Systems wie z.B. Computer, Scaner und Drucker.",b="Notfallservice bei Ausf\xe4llen",a=t.p
-if(a1.b>=1100){s=A.n_(10)
+if(a1.b>=1500){s=A.n_(10)
 r=A.au(j,10,j)
 q=A.a7(i,j,j,j,A.aF(j,j,j,j,j,j,j,j,j,j,j,20,j,j,B.A,j,j,!0,j,j,j,j,j,j,j,j),j,j)
 p=A.au(j,j,j)
@@ -78825,7 +78825,7 @@ $0(){},
 $S:0}
 A.Vu.prototype={
 $2(a,b){var s,r,q,p=null,o="assets/img/kontakt.png",n=u.L,m=u.R,l=t.VO,k=t.p
-if(b.b>=1100){s=A.nI(o,300,500)
+if(b.b>=1500){s=A.nI(o,300,500)
 r=A.aF(p,p,B.ch,p,B.cq,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)
 q=A.oG(p,p)
 q.b1=new A.V9(a)
@@ -79188,7 +79188,7 @@ A.I8.prototype={
 M(a){var s=null,r=A.aF(s,s,B.dT,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)
 return new A.wN(new A.lq(new A.aT(s,t.A),s),A.alX(s,B.Hb,A.aaD(s,s,s,A.aF(s,s,B.Hc,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s,r,s,s,s,s,s,s,s,s,s),s),!1,s)}}
 A.lq.prototype={
-M(a){var s,r,q,p=null,o=4293981695,n=A.bo(a,p,t.w).w.a.a,m=n<1100
+M(a){var s,r,q,p=null,o=4293981695,n=A.bo(a,p,t.w).w.a.a,m=n<1500
 A.fi("Der Bildschirm hat folgende Breite: "+A.h(n)+" "+m)
 s=this.c
 r=A.a7("Startseite",p,p,p,p,p,p)
@@ -79234,12 +79234,12 @@ $0(){A.cS(this.a,!1).dt()},
 $S:0}
 A.a1y.prototype={
 $2(a,b){var s=null,r="assets/img/startseite.png",q="Willkommen bei SoftRegio, Ihrem vertrauensw\xfcrdigen Partner f\xfcr IT-Support und L\xf6sungen am Niederrhein. Mit unserer umfassenden Erfahrung in der IT-Branche stehen wir Ihnen zur Verf\xfcgung bei der Digitalisierung und dem Betrieb Ihrer Computersysteme.",p=4281545523,o=t.p
-if(b.b>=1100)return A.dR(A.a([new A.dX(1,B.aO,new A.aV(new A.Y(10,10,10,10),A.nI(r,300,500),s),s),new A.dX(1,B.aO,new A.aV(new A.Y(10,10,10,10),A.a7(q,s,s,s,A.aF(s,s,new A.o(p),s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s)],o),B.x,B.cg,B.w)
+if(b.b>=1500)return A.dR(A.a([new A.dX(1,B.aO,new A.aV(new A.Y(10,10,10,10),A.nI(r,300,500),s),s),new A.dX(1,B.aO,new A.aV(new A.Y(10,10,10,10),A.a7(q,s,s,s,A.aF(s,s,new A.o(p),s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s)],o),B.x,B.cg,B.w)
 else return A.cl(A.a([new A.aV(new A.Y(10,10,10,10),A.nI(r,300,500),s),new A.aV(new A.Y(10,10,10,10),A.a7(q,s,s,s,A.aF(s,s,new A.o(p),s,s,s,s,s,s,s,s,16,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s)],o),B.x,B.B,B.w)},
 $S:35}
 A.a1z.prototype={
 $2(a,b){var s,r,q,p,o,n,m,l,k=null,j="Unsere Top Angebote",i="Software",h="Installation und Einrichtung von Software an Ihre Gesch\xe4ftsprozesse.",g="Bei Problemen mit Ihren IT-System sind wir f\xfcr Sie da.",f="Einrichten von Hardware",e="Wir richten Ihr IT-System ein z.B. Computer, Scaner und Drucker.",d=t.p
-if(b.b>=1100){s=A.aF(k,k,B.ch,k,B.cq,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k)
+if(b.b>=1500){s=A.aF(k,k,B.ch,k,B.cq,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k)
 r=A.oG(k,k)
 r.b1=new A.a1o()
 s=A.z9(A.bs(A.a([A.bs(k,r,s,""),A.bs(k,k,k,"")],t.VO),k,k,""),k,k)
@@ -79290,7 +79290,7 @@ $0(){},
 $S:0}
 A.a1A.prototype={
 $2(a,b){var s,r,q,p=null,o="assets/img/kontakt.png",n=u.L,m=u.R,l=t.VO,k=t.p
-if(b.b>=1100){s=A.nI(o,300,500)
+if(b.b>=1500){s=A.nI(o,300,500)
 r=A.aF(p,p,B.ch,p,B.cq,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p)
 q=A.oG(p,p)
 q.b1=new A.a1m(a)
